@@ -1,6 +1,4 @@
-# STOR565FinalProject
-
-Abusive Tweet Classification Machine Learning NLP Project
+# Abusive Tweet Classification NLP Project
 Spring 2024
 
 - Utilized TF-IDF Vectorizer to vectorize tokenized tweets and comments
